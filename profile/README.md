@@ -1,12 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="logo.svg" />
+    <img alt="weapp-vite logo" src="logo.png" width="140" />
+  </picture>
+</p>
 
-<!--
+<h2 align="center">weapp-vite</h2>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <a href="https://vite.icebreaker.top/">
+    <img src="https://img.shields.io/badge/Docs-vite.icebreaker.top-2eb0f5?style=for-the-badge&logo=vite&logoColor=ffffff" alt="Visit vite.icebreaker.top" />
+  </a>
+</p>
